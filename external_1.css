@@ -1,0 +1,19 @@
+html, body, #map_canvas {
+	height:90%;	
+}
+
+body, #map_canvas {
+	margin:0px;
+	padding:0px;	
+}
+
+#map_canvas {
+	width:90%;	
+}
+
+#directions-panel {
+	position:relative;
+	width:400px;
+	height:auto;
+	background-color:yellow;	
+}
